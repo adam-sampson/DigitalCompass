@@ -49,7 +49,7 @@ Added magnetometer calibration routine.
 Added accelerometer calibration routine.
 Added function to save / retrieve calibration values in long term storage on chip.
 
-Picture !(./img/1385530517.png)
+![Picture](./img/1385530517.png)
 
 Hardware Build:
 
