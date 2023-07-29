@@ -1,6 +1,7 @@
 This is a copy from https://projectsampson.weebly.com/rev-c-circuit---portable.html. Way back in 2013 I built a cave compass from an LSM303DLHC. It was a learning project for me, and a chance to see how precise I could make the compass with filtering...not good enough with that chip. This repository is a copy of that site to a modern version control system.
 
 Digital Cave Compass αI Rev C
+
 Components:
 Arduino Micro (Link)[http://www.pololu.com/catalog/product/2188]
 LSM303DLHC on Breakout Board (Link)[http://www.pololu.com/catalog/product/2124]
